@@ -1,0 +1,20 @@
+.bag {
+  position: absolute;
+  z-index: -1;
+}
+  
+.Chips {
+  text-align: center;
+} 
+
+.ChipsBtn {
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+}
+
+
+.ChipsBtn:hover {
+  background-color:rgb(151, 151, 151) ;
+  cursor: pointer;
+}
